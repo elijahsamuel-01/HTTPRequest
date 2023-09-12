@@ -1,0 +1,2 @@
+import module from "events"
+
